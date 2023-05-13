@@ -20,10 +20,10 @@ const Navbar = () => {
       ></img>
       <div className="flex">
         <a className="mx-2 cursor-pointer" onClick={GoToHome}>
-          Employee Dashboard
+          Employee Form
         </a>
         <a className="mx-2 cursor-pointer" onClick={GoToForm}>
-          Employee Form
+          EmployeeDashboard
         </a>
       </div>
     </div>

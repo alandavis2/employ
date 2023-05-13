@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import { Routes, Route } from "react-router-dom";
-import EmployeeDashboard from "./pages/EmployeeDashboard/EmployeeDashboard.js";
+import EmployeeDashboard  from "./pages/EmployeeDashboard/EmployeeDashboard.js";
 import EmployeeForm from "./pages/EmployeeForm/EmployeeForm.js";
 
 function App() {
